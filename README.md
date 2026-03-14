@@ -6,8 +6,7 @@ A full-stack web application for monitoring UK national wind power generation fo
 
 ## 🔗 Links
 
-- **Live App**: _[Deploy to Vercel — see below]_
-- **Demo Video**: _[Upload to YouTube — see submission steps below]_
+- **Live App**: https://wind-forecast-monitor-nine.vercel.app
 
 ---
 
